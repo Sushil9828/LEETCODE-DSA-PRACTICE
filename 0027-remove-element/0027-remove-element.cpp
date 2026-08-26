@@ -13,7 +13,7 @@ public:
             }
         }
 
-    int k = n-1;
+   
     return i ; 
     }
 };
