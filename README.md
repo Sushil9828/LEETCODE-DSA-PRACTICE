@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sushil9828/LEETCODE-DSA-PRACTICE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sushil9828/LEETCODE-DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sushil9828/LEETCODE-DSA-PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sushil9828/LEETCODE-DSA-PRACTICE/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sushil9828/LEETCODE-DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/Sushil9828/LEETCODE-DSA-PRACTICE/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sushil9828/LEETCODE-DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sushil9828/LEETCODE-DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sushil9828/LEETCODE-DSA-PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sushil9828/LEETCODE-DSA-PRACTICE/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sushil9828/LEETCODE-DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
